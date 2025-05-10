@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Khandelwal</h1>
 <h3 align="center">B.Tech Computer Engineering student exploring coding, system design, and innovative tech solutions.</h3>
 
+
 <p align="left">
   <a href="https://github.com/Harshit498">
     <img src="https://github-profile-trophy.vercel.app/?username=Harshit498" alt="Harshit498" />
