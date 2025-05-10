@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **python(basic), c++ with DSA, HTML,CSS,JS.**
 - 📫 How to reach me: **[harshitkhandelwal10114@gmail.com](mailto:harshitkhandelwal10114@gmail.com)**
-- ⚡ Fun fact: **I write code that even future me struggles to understand! 💻🤯**
+  
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
